@@ -10,7 +10,7 @@ https://platexample.ir/#/discover/suriname
 
 # suriname_plate
 
-Suriname's licence plates for [`plate_core`](https://pub.dev/packages/plate_core) — TODO one sentence: categories, colours, themes, alphabets, advisory validator.
+Suriname's licence plates for [`plate_core`](https://pub.dev/packages/plate_core) — the black-on-yellow private plate (two letters, the first `P`, and four digits), one theme, Latin alphabets and an advisory validator.
 
 ```dart
 import 'package:plate_core/plate_core.dart';
