@@ -1,7 +1,7 @@
 name: suriname_plate
 description: "Suriname's licence plates for the plate_core library — the black-on-yellow private plate, one theme, an advisory validator."
 version: 0.1.0
-publish_to: none
+repository: https://github.com/ArAd1Beyranvand/suriname_plate
 resolution: workspace
 
 environment:
